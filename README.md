@@ -41,7 +41,7 @@ Other Tools:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Material Design](https://img.shields.io/badge/Material%20Design-black?style=flat-square&logo=material-design)
 
-🌱 I’m currently pleying with :
+🌱 I’m currently playing with :
 ![Websocket](https://img.shields.io/badge/Websocket-black?style=flat-square&logo=socket.io)
 ![WebRTC](https://img.shields.io/badge/WebRTC-black?style=flat-square&logo=webrtc)
 
