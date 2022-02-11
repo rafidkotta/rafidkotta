@@ -1,7 +1,7 @@
-### Hi, I am Rafid Kotta
+### Hi, my self Rafid Kotta
 
 <!--Introduction -->
-**I am a Mobile Application Developer**,trying to make this world a **better place** :earth_asia: through all the tools and technologies learnt through my journey.
+**A Software Developer**,trying to make this world a **better place** :earth_asia: through all the tools and technologies learnt through my journey.
 <br>
 <em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you here !</b> </em> [![Linkedin](https://img.shields.io/badge/-Rafid-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafidkotta/)
 [![Gmail](https://img.shields.io/badge/-Rafid-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:getrafid@gmail.com)
@@ -41,7 +41,7 @@ Other Tools:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Material Design](https://img.shields.io/badge/Material%20Design-black?style=flat-square&logo=material-design)
 
-🌱 I’m currently learning :
+🌱 I’m currently pleying with :
 ![Websocket](https://img.shields.io/badge/Websocket-black?style=flat-square&logo=socket.io)
 ![WebRTC](https://img.shields.io/badge/WebRTC-black?style=flat-square&logo=webrtc)
 
