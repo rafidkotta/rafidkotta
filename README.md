@@ -1,7 +1,7 @@
 ### Hi, my self Rafid Kotta
 
 <!--Introduction -->
-**A Software Developer**,trying to make this world a **better place** :earth_asia: through all the tools and technologies learnt through my journey.
+**A Software Developer**, trying to make this world a **better place** :earth_asia: through all the tools and technologies learnt through my journey.
 <br>
 <em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you here !</b> </em> [![Linkedin](https://img.shields.io/badge/-Rafid-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafidkotta/)
 [![Gmail](https://img.shields.io/badge/-Rafid-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:getrafid@gmail.com)
